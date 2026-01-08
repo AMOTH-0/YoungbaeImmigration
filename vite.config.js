@@ -4,7 +4,7 @@ import path from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Youngbaelimmigration/',  // Add this line with your repo name
+  base: '/YoungbaeImmigration/',  // Add this line with your repo name
   plugins: [react()],
   server: {
     allowedHosts: true
