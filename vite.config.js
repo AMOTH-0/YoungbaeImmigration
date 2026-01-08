@@ -4,7 +4,7 @@ import path from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/YoungbaeImmigration/',  // Add this line with your repo name
+  base: '/',  // Use root path for custom domain
   plugins: [react()],
   server: {
     allowedHosts: true
