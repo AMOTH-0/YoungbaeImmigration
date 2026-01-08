@@ -1,11 +1,11 @@
 
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { createPageUrl } from './utils';
+import { createPageUrl } from '../utils';
 import { Menu, X, Shield, Phone, Mail } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { LanguageProvider, useLanguage } from './components/LanguageContext';
-import LanguageSelector from './components/LanguageSelector';
+import { LanguageProvider, useLanguage } from '../components/LanguageContext.jsx';
+import LanguageSelector from '../components/LanguageSelector.jsx';
 
 function LayoutContent({ children }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
