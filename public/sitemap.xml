@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Update the domain below if you're using a custom domain instead of GitHub Pages -->
-  <!-- For GitHub Pages: https://amoth-0.github.io/YoungbaeImmigration -->
-  <!-- For custom domain: https://yourdomain.com -->
-  <!-- Note: Since this site uses HashRouter, all pages are served from the same HTML file -->
-  <!-- The hash fragments (#/) are handled client-side, so we list the base URL -->
   <url>
-    <loc>https://amoth-0.github.io/YoungbaeImmigration/</loc>
+    <loc>https://youngbaeimmigration.ca/</loc>
     <lastmod>2026-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 </urlset>
+
