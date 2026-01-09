@@ -3,34 +3,12 @@
   <!-- Update the domain below if you're using a custom domain instead of GitHub Pages -->
   <!-- For GitHub Pages: https://amoth-0.github.io/YoungbaeImmigration -->
   <!-- For custom domain: https://yourdomain.com -->
+  <!-- Note: Since this site uses HashRouter, all pages are served from the same HTML file -->
+  <!-- The hash fragments (#/) are handled client-side, so we list the base URL -->
   <url>
-    <loc>https://amoth-0.github.io/YoungbaeImmigration/#/</loc>
-    <lastmod>2025-01-27</lastmod>
+    <loc>https://amoth-0.github.io/YoungbaeImmigration/</loc>
+    <lastmod>2026-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://amoth-0.github.io/YoungbaeImmigration/#/home</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://amoth-0.github.io/YoungbaeImmigration/#/about</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://amoth-0.github.io/YoungbaeImmigration/#/services</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://amoth-0.github.io/YoungbaeImmigration/#/contact</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
