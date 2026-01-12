@@ -7,7 +7,7 @@ export default defineConfig({
   base: '/',  // Use root path for custom domain
   plugins: [react()],
   server: {
-    allowedHosts: true
+
   },
   resolve: {
     alias: {
